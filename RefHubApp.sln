@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefHubApp", "RefHubApp\RefHubApp.csproj", "{57017982-6A89-4DC1-A7BC-7AF598A46EC2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57017982-6A89-4DC1-A7BC-7AF598A46EC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57017982-6A89-4DC1-A7BC-7AF598A46EC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57017982-6A89-4DC1-A7BC-7AF598A46EC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57017982-6A89-4DC1-A7BC-7AF598A46EC2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4553C67E-EA04-4304-9890-6D28DBA4BA1E}
+	EndGlobalSection
+EndGlobal
